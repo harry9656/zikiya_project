@@ -1,7 +1,7 @@
 .DS_Store
 
 
-user_guide_src/*
+/user_guide/
 /vendor/
 
 # IDE Files

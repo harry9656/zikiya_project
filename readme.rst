@@ -1,4 +1,17 @@
 ###################
+Zikiya Restaurant
+###################
+
+Zikiya is a wok restaurant located in Venice, an artificial island of Italy 
+where turists from the world around come to see its architecture, sea and so on.
+
+###################
+Framework used
+###################
+
+- CodeIgniter
+
+###################
 What is CodeIgniter
 ###################
 
