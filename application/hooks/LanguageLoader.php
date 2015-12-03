@@ -27,7 +27,11 @@ class LanguageLoader {
     }
     
     function loadLanguage($lang, $language){
+        //User Language
         $lang->load('message',$language);
+        $lang->load('standard',$language);
+        
+        //System Languages
         $lang->load('calendar',$language);
         $lang->load('date',$language);
         $lang->load('db',$language);

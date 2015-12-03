@@ -11,6 +11,9 @@
         <!-- Plugin JavaScript -->
         <script src="<?php echo base_url();?>assets/js/jquery.easing.min.js"></script>
         
+        <!-- AngularJS -->
+        <script src="<?php echo base_url();?>assets/js/angularjs.min.js"></script>
+        
         <!-- Loader -->
         <script src="<?php echo base_url();?>assets/js/loader.js"></script>
     </body>

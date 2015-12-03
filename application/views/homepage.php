@@ -3,13 +3,13 @@
   <span class="cls"></span> 
   <span>
     <ul class="sub-menu ">
-      <li class="selected"> <a href="#">HOME</a> </li>
-      <li> <a href="#">CONTACT</a> </li>
-      <li> <a href="#">ABOUT</a> </li>
+      <li class="selected"> <a href="#"><?php echo strtoupper(lang('std_home'));?></a> </li>
+      <li> <a href="#"><?php echo strtoupper(lang('std_contact'));?></a> </li>
+      <li> <a href="#"><?php echo strtoupper(lang('std_about'));?></a> </li>
       <li> <a href="#">BLOG</a> </li>
     </ul>
-  </span> 
-  <span class="cls"></span> 
+  </span>
+  <span class="cls"></span>
 </div>
 <div>
     <?php echo lang('msg_hello') . lang('cal_sunday'); ?>
